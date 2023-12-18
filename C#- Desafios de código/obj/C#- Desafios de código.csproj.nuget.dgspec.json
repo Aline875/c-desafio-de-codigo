@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#- Desafios de código\\C#- Desafios de código.csproj": {}
+    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-desafio-de-codigo\\C#- Desafios de código\\C#- Desafios de código.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#- Desafios de código\\C#- Desafios de código.csproj": {
+    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-desafio-de-codigo\\C#- Desafios de código\\C#- Desafios de código.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#- Desafios de código\\C#- Desafios de código.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-desafio-de-codigo\\C#- Desafios de código\\C#- Desafios de código.csproj",
         "projectName": "C#- Desafios de código",
-        "projectPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#- Desafios de código\\C#- Desafios de código.csproj",
+        "projectPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-desafio-de-codigo\\C#- Desafios de código\\C#- Desafios de código.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#- Desafios de código\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-desafio-de-codigo\\C#- Desafios de código\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

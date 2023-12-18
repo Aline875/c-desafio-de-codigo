@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\bin\Debug\net8.0\Desafio2.exe
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\bin\Debug\net8.0\Desafio2.deps.json
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\bin\Debug\net8.0\Desafio2.runtimeconfig.json
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\bin\Debug\net8.0\Desafio2.dll
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\bin\Debug\net8.0\Desafio2.pdb
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.AssemblyInfo.cs
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.sourcelink.json
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.dll
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\refint\Desafio2.dll
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.pdb
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\Desafio2.genruntimeconfig.cache
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio2\obj\Debug\net8.0\ref\Desafio2.dll
