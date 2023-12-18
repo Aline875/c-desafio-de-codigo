@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\bin\Debug\net8.0\Desafio3.exe
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\bin\Debug\net8.0\Desafio3.deps.json
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\bin\Debug\net8.0\Desafio3.runtimeconfig.json
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\bin\Debug\net8.0\Desafio3.dll
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\bin\Debug\net8.0\Desafio3.pdb
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.AssemblyInfo.cs
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.sourcelink.json
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.dll
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\refint\Desafio3.dll
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.pdb
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\Desafio3.genruntimeconfig.cache
+C:\Users\PC\Downloads\aline\vs code\c-desafio-de-codigo\Desafio3\obj\Debug\net8.0\ref\Desafio3.dll
