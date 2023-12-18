@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\bin\Debug\net8.0\C#- Desafios de código.exe
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\bin\Debug\net8.0\C#- Desafios de código.deps.json
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\bin\Debug\net8.0\C#- Desafios de código.runtimeconfig.json
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\bin\Debug\net8.0\C#- Desafios de código.dll
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\bin\Debug\net8.0\C#- Desafios de código.pdb
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.AssemblyInfo.cs
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.dll
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\refint\C#- Desafios de código.dll
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.pdb
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\C#- Desafios de código.genruntimeconfig.cache
+C:\Users\PC\Downloads\aline\vs code\c-\C#- Desafios de código\obj\Debug\net8.0\ref\C#- Desafios de código.dll
