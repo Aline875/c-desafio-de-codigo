@@ -32,7 +32,7 @@ public class Desafio3
                 Console.Write(", ");
             }
         }
-        Console.WriteLine("ao catalogo.");
+        Console.WriteLine("  ao catalogo.");
     }
 }
 
